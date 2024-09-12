@@ -30,7 +30,7 @@ I am currently in my final year pursuing a Bachelor of Technology in Electronics
 ## 🎮 Hobbies & Interests
 
 - **Games**: Love playing games in my free time.
-- **Sports**: Enjoy sports, especially basketball and football.
+- **Sports**: Enjoy sports, especially cricket and football.
 - **Fiction**: A huge fan of Batman!
 
 ## 📫 Let's Connect!
