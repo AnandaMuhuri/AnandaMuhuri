@@ -61,6 +61,16 @@ I'm a final-year **B.Tech student in Electronics and Communication** at NIT Agar
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananda%20Muhuri-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ananda-muhuri-694365220/)
-[![Gmail](https://img.shields.io/badge/Email-anandamuhuri1@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:anandamuhuri1@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ananda-muhuri-694365220/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anandamuhuri1@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ananda_muhuri09/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
 
