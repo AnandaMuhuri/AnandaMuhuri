@@ -25,7 +25,7 @@ I'm a final-year **B.Tech student in Electronics and Communication** at NIT Agar
 - 💻 **Languages**: C++, Python, JavaScript, C
 - 🌐 **Web Development**: HTML, CSS, JavaScript, React, Node.js
 - 🧠 **AI/ML**: Langchain, NumPy, Pandas, Scikit-learn
-- 🛢️ **Databases**: PostgreSQL, MySQL
+- 🛢️ **Databases**: PostgreSQL, MySQL, MongoDB
 - 🧑‍💻 **Tools**: Git, GitHub, VSCode
 
 ---
