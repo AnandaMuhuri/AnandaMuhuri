@@ -19,6 +19,8 @@ I'm a final-year **B.Tech student in Electronics and Communication** at NIT Agar
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+
 
 - 💻 **Languages**: C++, Python, JavaScript, C
 - 🌐 **Web Development**: HTML, CSS, JavaScript, React, Node.js
