@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a final-year **B.Tech student in Electronics and Communication** at NIT Agartala, with a deep passion for coding, AI, and technology innovation. I love building applications that solve real-world problems and enhance user experience.
+I'm a **B.Tech Graduate in Electronics and Communication** from NIT Agartala, with a deep passion for coding, AI, and technology innovation. I love building applications that solve real-world problems and enhance user experience.
 
 ### 🔧 Tech Stack
 
